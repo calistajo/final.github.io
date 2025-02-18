@@ -1,0 +1,56 @@
+body {
+    font-family: "Borel", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    }
+    
+header {
+        background-color: #ea9ab2;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    nav ul {
+        list-style-type: none;
+        display: flex;
+    }
+    nav a {
+        text-decoration: none;
+        color: white;
+        margin: 30px;
+  
+}
+
+h1 {
+font-size: 40px;
+padding-left: 10px;
+}
+
+article {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: #b3dee2;
+    margin-bottom: 50px;
+    font-size: larger;
+}
+img {
+    max-width: 600px;
+}
+
+p {
+    padding: 20px;
+    font-family: Akaya Telivigala;
+    font-size: 25px;
+}
+footer {
+    background-color: #ea9ab2;
+    padding: 20px;
+    text-align: center;
+    color: #f3f3f3;
+}

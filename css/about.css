@@ -1,0 +1,56 @@
+body {
+    font-family: "Borel", sans-serif;
+    margin: 0;
+    background-color: #FAF9F6;
+    }
+    
+header {
+        background-color: #ea9ab2;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    nav ul {
+        list-style-type: none;
+        display: flex;
+    }
+    nav a {
+        text-decoration: none;
+        color: white;
+        margin: 30px;
+  
+}
+h1 {
+font-size: 40px;
+padding-left: 10px;
+}
+h2 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+#text {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 200px;
+    font-size: 30px;
+    padding-top: 100px;
+    font-family: Akaya Telivigala;
+}
+img {
+    max-height: 600px;
+    max-width: 600px;
+    padding-right: 90px;
+}
+div {
+    display: flex;
+}
+footer {
+    background-color: #ea9ab2;
+    text-align: center;
+    color: #f3f3f3;
+    padding: 20px;
+    margin-top: 40px;
+}
+

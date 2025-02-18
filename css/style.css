@@ -1,0 +1,128 @@
+
+body {
+    font-family: "Borel", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAF9F6;
+    }
+    
+header {
+        background-color: #ea9ab2;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    nav ul {
+        list-style-type: none;
+        display: flex;
+    }
+    nav a {
+        text-decoration: none;
+        color: white;
+        margin: 30px;
+  
+}
+ img {
+    max-width: 700px;
+    padding-left: 100px;
+    padding-top: 50px;
+    float: right;
+    margin: 0 0.5em;
+   
+ }
+ h1 {
+ font-size: 40px;
+ padding-left: 15px;
+ }
+
+#toptext {
+    padding-left: 130px;
+    padding-top: 90px;
+    font-size: 54px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    
+}
+div {
+    display: flex;
+    align-items: center;
+}
+span {
+    font-size: 100px;
+    font-weight: bolder;
+}
+.btn {
+    background-color: #b3dee2;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 10px;
+    display: flex;
+    margin-top: -90px;
+    font-size: 14px;
+
+}
+section {
+    padding-left: 300px;
+    padding-right: 999px;
+    
+}
+#break {
+    border-top: 3px dotted #ceb5b7;
+    width: 80%;
+}
+
+h2 {
+    padding-top: 30px;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+.body {
+    
+    margin-top: 70px;
+    align-items: center;
+    display: block;
+}
+#images {
+    max-width: 600px;
+    max-height: 400px;
+    justify-content: center;
+
+}
+
+footer {
+    background-color: #ea9ab2;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+#gallery {
+    display: flex;
+    gap: 30px;
+   text-align: center;
+   align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+#createbtn {
+    background-color: #FAF9F6;
+    border: none;
+    padding: 20px;
+}
+#createbtn:hover {
+   background-color: #f3f3f3;
+
+}
+a {
+    text-decoration: none;
+}
+h3 {
+    color: black;
+    font-size: 30px;
+}
